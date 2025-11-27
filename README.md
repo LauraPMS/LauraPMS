@@ -1,8 +1,8 @@
 ## Hi, I'm Laura ✨
 
 # 💫 About Me:
- ​🧠 Cybersecurity engineering student<br>
- 💻 I'm a Junior dev<br>
+ ​🧠 Cybersecurity engineering student at EPITA<br>
+ 💻 I'm a Junior analyst<br>
  📧 Let's work together : laurapmsgit@gmail.com
 
 ## 🌐 Socials:
