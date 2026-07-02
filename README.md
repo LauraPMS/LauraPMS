@@ -5,7 +5,7 @@
  💻 I'm a Junior Security analyst<br>
  📧 Let's work together : laurapmsgit@gmail.com
 
-## Currently Working on:
+## 💫 Currently Working on:
 - Rider License
 - Learning Japanese
 - Study motor-bike physics
