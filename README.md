@@ -6,10 +6,13 @@
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/doritos3466) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LauraPMS)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/l_pmartins)
-  
+  ![](https://github-readme-stats.shion.dev/api?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+  ![](https://streak-stats.demolab.com/?user=LauraPMS&theme=radical&hide_border=true)
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
----
+--
 
 ### About Me
 
@@ -19,7 +22,7 @@
 - 🏍️ **Hobbies:** Training for my motorcycle license, studying motorbike physics, and relaxing with watercolor painting. 🎨
 - 📫 **Let's collaborate:** [laurapmsgit@gmail.com](mailto:laurapmsgit@gmail.com)
 
----
+--
 
 ### 💻 Tech Stack
 
@@ -57,28 +60,5 @@
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Riot_Games-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" />
 </details>
-
----
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraPMS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F5C2E7&icon_color=F5C2E7&text_color=C9D1D9" alt="Laura's GitHub Stats" />
-  <br>
-  <br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LauraPMS&icon=6&color=5" alt="Profile Views">
-  </a>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LauraPMS&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LauraPMS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LauraPMS&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
