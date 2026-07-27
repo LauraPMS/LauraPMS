@@ -12,10 +12,7 @@
 
 </div>
 
-<div align="center">
---
-</div>
-
+---
 
 ### About Me
 
@@ -25,9 +22,7 @@
 - 🏍️ **Hobbies:** Training for my motorcycle license, studying motorbike physics, and relaxing with watercolor painting. 🎨
 - 📫 **Let's collaborate:** [laurapmsgit@gmail.com](mailto:laurapmsgit@gmail.com)
 
-<div align="center">
---
-</div>
+---
 
 ### 💻 Tech Stack
 
