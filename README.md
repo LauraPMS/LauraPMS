@@ -5,7 +5,8 @@
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/doritos3466) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LauraPMS)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/l_pmartins)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/l_pmartins)  
+  
   ![](https://github-readme-stats.shion.dev/api?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LauraPMS&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
